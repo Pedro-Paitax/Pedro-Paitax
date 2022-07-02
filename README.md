@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @Pedro-Paitax
 - 👌 I'm small dev, which still learn about small thigs, so keep cool :)
 <!---
