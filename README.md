@@ -5,7 +5,7 @@
 ```kotlin
 Class Paitax {
  Spring name = "Pedro Henrique dos Anjos Paitax";
- Spring acknowledgements = "Java, JavaScript, Python, SpringBoot";
+ Spring adress = "Curitiba, Paraná, Brasil"
  int age = 17;
 }
 ```
@@ -23,30 +23,11 @@ Class Paitax {
 ## **Entre em contato comigo:**  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-henrique-dos-anjos-paitax-858898150/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro henrique dos anjos paitax" height="30" width="40" /></a>
-<a href="https://instagram.com/paitax_mz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paitax_mz" height="30" width="40" /></a>
-<a href="https://discord.gg/Putinha de Luxo#5913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Putinha de Luxo#5913" height="30" width="40" /></a>
+<a href="https://instagram.com/paitax_mz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paitax_mz" height="40" width="40" /></a>
+<a href="https://discord.gg/5UX3nBtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Putinha de Luxo#5913" height="40" width="40" /></a>
+<a ㅤ href="mailto:pedrohemriquepaitax@gmail.com?subject=Contato via GitHub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Putinha de Luxo#5913" height="40" width="40" /></a>
+<a ㅤㅤㅤ href="https://www.linkedin.com/in/pedro-henrique-dos-anjos-paitax-858898150/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro henrique dos anjos paitax" height="40" width="40" /></a>
 </p>
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
 
 
 
