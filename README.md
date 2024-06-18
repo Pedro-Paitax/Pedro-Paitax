@@ -6,7 +6,7 @@
 Class Paitax {
  Spring name = "Pedro Henrique dos Anjos Paitax";
  Spring adress = "Curitiba, Paraná, Brasil"
- int age = 17;
+ int age = 19;
 }
 ```
 
@@ -25,7 +25,7 @@ Class Paitax {
 <a href="https://instagram.com/paitax_mz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paitax_mz" height="40" width="40" /></a>
 <a href="https://discord.gg/5UX3nBtc" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Putinha de Luxo#5913" height="40" width="40" /></a>
 <a ㅤ href="mailto:pedrohemriquepaitax@gmail.com?subject=Contato via GitHub" target="_blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Putinha de Luxo#5913" height="40" width="40" /></a>
-<a ㅤㅤㅤ href="https://www.linkedin.com/in/pedro-henrique-dos-anjos-paitax-858898150/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro henrique dos anjos paitax" height="40" width="40" /></a>
+<a ㅤㅤㅤ href="https://www.linkedin.com/in/paitax/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro henrique dos anjos paitax" height="40" width="40" /></a>
 </p>
 
 
